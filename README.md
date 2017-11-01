@@ -28,7 +28,7 @@ The program will generate different files during execution.
 In all the files after n and k will be the corresponding number of that parameter.
 
 ## Publications
-Information will be available soon, including the Springer Proceedings and link of the extended version of the paper.
+The extended abstract version of the paper is available at https://doi.org/10.1007/978-3-319-68612-7.
 
 ## Authors
 * **Edwin Jimenez-Lepe** `eejimenez@gdl.cinvestav.mx`
